@@ -1,5 +1,5 @@
-import { dom } from '../dom.js';
-import { data } from '../data.js';
+import  dom  from '../dom.js';
+import  data  from '../data.js';
 import createTodoItem from '../components/todoItem.js';
 
 const addTodoList = (value) => {

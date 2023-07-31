@@ -1,4 +1,5 @@
-import { dom } from './dom.js';
+import  dom  from './dom.js';
+import data from './data.js';
 import createItem from './components/todoItem.js';
 
 // default show some items

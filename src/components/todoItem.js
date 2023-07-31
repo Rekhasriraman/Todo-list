@@ -1,6 +1,6 @@
 // Imports
-import { data } from '../data.js';
-import { dom } from '../dom.js';
+
+import  dom  from '../dom.js';
 import editItemList from '../handlers/editButtonHandler.js';
 import deleteItemList from '../handlers/deleteButtonHandler.js';
 

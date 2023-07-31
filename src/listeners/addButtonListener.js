@@ -1,6 +1,6 @@
 import addItemList from '../handlers/addButtonHandler.js';
-import { dom } from '../dom.js';
-import { data } from '../data.js';
+import  dom  from '../dom.js';
+
 
 const handleKeyPress = (e) => {
   dom.error.innerText = '';

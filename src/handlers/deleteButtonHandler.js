@@ -1,5 +1,5 @@
-import { dom } from '../dom.js';
-import { data } from '../data.js';
+import  dom  from '../dom.js';
+import  data  from '../data.js';
 
 const deleteTodoList = (id) => {
   // Find index of item to be deleted
