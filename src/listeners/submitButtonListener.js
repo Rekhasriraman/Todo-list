@@ -1,6 +1,6 @@
 import addItemList from '../handlers/addButtonHandler.js';
-import { dom } from '../dom.js';
-import { data } from '../data.js';
+import  dom  from '../dom.js';
+
 
 const handleSubmitButtonClick = (e) => {
   e.preventDefault();
